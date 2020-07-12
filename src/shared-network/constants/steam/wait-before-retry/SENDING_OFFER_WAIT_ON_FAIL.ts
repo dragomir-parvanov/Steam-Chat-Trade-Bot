@@ -1,0 +1,3 @@
+const SENDING_OFFER_WAIT_ON_FAIL = 1000;
+
+export default SENDING_OFFER_WAIT_ON_FAIL;

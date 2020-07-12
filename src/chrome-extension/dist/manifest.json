@@ -1,0 +1,11 @@
+{
+  "name": "Steam proxy forwarder",
+  "description": "Forwarding steam requests to our proxy",
+  "version": "0.0.0.5",
+  "manifest_version": 2,
+  "permissions": ["<all_urls>", "webRequest", "webRequestBlocking", "tabs", "webNavigation"],
+
+  "background": {
+    "scripts": ["backgroundscript.js"]
+  }
+}

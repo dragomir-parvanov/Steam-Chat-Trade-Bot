@@ -1,0 +1,2 @@
+const MAX_MONGO_DB_RETRIES = 5;
+export default MAX_MONGO_DB_RETRIES;

@@ -1,0 +1,5618 @@
+[
+  {
+    "Id": 1,
+    "Name": "Operation Bravo Case",
+    "Volume": 100,
+    "LowestPrice": 20.0,
+    "AveragePrice": 20.0,
+    "SellPrice": 20.0,
+    "Droppable": true
+  },
+  {
+    "Id": 2,
+    "Name": "eSports 2013 Case",
+    "Volume": 100,
+    "LowestPrice": 10.0,
+    "AveragePrice": 10.0,
+    "SellPrice": 10.0,
+    "Droppable": true
+  },
+  {
+    "Id": 3,
+    "Name": "CS:GO Weapon Case",
+    "Volume": 100,
+    "LowestPrice": 15.0,
+    "AveragePrice": 15.0,
+    "SellPrice": 15.0,
+    "Droppable": true
+  },
+  {
+    "Id": 4,
+    "Name": "Operation Hydra Case",
+    "Volume": 5,
+    "LowestPrice": 5.5,
+    "AveragePrice": 5.5,
+    "SellPrice": 5.5,
+    "Droppable": true
+  },
+  {
+    "Id": 5,
+    "Name": "Winter Offensive Weapon Case",
+    "Volume": 2,
+    "LowestPrice": 2.17,
+    "AveragePrice": 2.17,
+    "SellPrice": 2.17,
+    "Droppable": true
+  },
+  {
+    "Id": 6,
+    "Name": "Huntsman Weapon Case",
+    "Volume": 2,
+    "LowestPrice": 1.7,
+    "AveragePrice": 1.7,
+    "SellPrice": 1.7,
+    "Droppable": true
+  },
+  {
+    "Id": 7,
+    "Name": "CS:GO Weapon Case 2",
+    "Volume": 2,
+    "LowestPrice": 1.7,
+    "AveragePrice": 1.7,
+    "SellPrice": 2.0,
+    "Droppable": true
+  },
+  {
+    "Id": 8,
+    "Name": "eSports 2014 Summer Case",
+    "Volume": 1,
+    "LowestPrice": 1.0,
+    "AveragePrice": 1.0,
+    "SellPrice": 1.0,
+    "Droppable": true
+  },
+  {
+    "Id": 9,
+    "Name": "Danger Zone Case",
+    "Volume": 1,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 10,
+    "Name": "eSports 2013 Winter Case",
+    "Volume": 1,
+    "LowestPrice": 1.0,
+    "AveragePrice": 1.0,
+    "SellPrice": 1.0,
+    "Droppable": true
+  },
+  {
+    "Id": 11,
+    "Name": "CS:GO Weapon Case 3",
+    "Volume": 720,
+    "LowestPrice": 0.85,
+    "AveragePrice": 0.82,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 12,
+    "Name": "Operation Vanguard Weapon Case",
+    "Volume": 2449,
+    "LowestPrice": 0.3,
+    "AveragePrice": 0.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 13,
+    "Name": "Chroma Case",
+    "Volume": 5384,
+    "LowestPrice": 0.29,
+    "AveragePrice": 0.3,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 14,
+    "Name": "Operation Phoenix Weapon Case",
+    "Volume": 15001,
+    "LowestPrice": 0.3,
+    "AveragePrice": 0.3,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 15,
+    "Name": "Falchion Case",
+    "Volume": 12533,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 16,
+    "Name": "Shadow Case",
+    "Volume": 15940,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 17,
+    "Name": "Operation Breakout Weapon Case",
+    "Volume": 36527,
+    "LowestPrice": 0.43,
+    "AveragePrice": 0.46,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 18,
+    "Name": "Operation Wildfire Case",
+    "Volume": 10990,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 19,
+    "Name": "Horizon Case",
+    "Volume": 42766,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 20,
+    "Name": "Clutch Case",
+    "Volume": 103353,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 21,
+    "Name": "Revolver Case",
+    "Volume": 13496,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 22,
+    "Name": "Chroma 2 Case",
+    "Volume": 29970,
+    "LowestPrice": 0.06,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 23,
+    "Name": "Gamma 2 Case",
+    "Volume": 59889,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 24,
+    "Name": "Chroma 3 Case",
+    "Volume": 34673,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 25,
+    "Name": "Glove Case",
+    "Volume": 73567,
+    "LowestPrice": 0.17,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 26,
+    "Name": "Gamma Case",
+    "Volume": 45322,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.04,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 27,
+    "Name": "Spectrum 2 Case",
+    "Volume": 130535,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 28,
+    "Name": "Spectrum Case",
+    "Volume": 72829,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 29,
+    "Name": "Sticker Capsule",
+    "Volume": 1404,
+    "LowestPrice": 0.5,
+    "AveragePrice": 0.49,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 30,
+    "Name": "Sticker Capsule 2",
+    "Volume": 553,
+    "LowestPrice": 6.9,
+    "AveragePrice": 6.8,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 31,
+    "Name": "Community Sticker Capsule 1",
+    "Volume": 335,
+    "LowestPrice": 2.39,
+    "AveragePrice": 2.36,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 32,
+    "Name": "Prisma Case",
+    "Volume": 82028,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 33,
+    "Name": "CS20 Case",
+    "Volume": 81903,
+    "LowestPrice": 0.06,
+    "AveragePrice": 0.04,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 34,
+    "Name": "UMP-45 | Carbon Fiber (Minimal Wear)",
+    "Volume": 348,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.11,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 35,
+    "Name": "UMP-45 | Carbon Fiber (Factory New)",
+    "Volume": 2503,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 36,
+    "Name": "Tec-9 | Urban DDPAT (Well-Worn)",
+    "Volume": 577,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 37,
+    "Name": "Tec-9 | Urban DDPAT (Minimal Wear)",
+    "Volume": 848,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 38,
+    "Name": "Tec-9 | Urban DDPAT (Field-Tested)",
+    "Volume": 3449,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 39,
+    "Name": "Tec-9 | Urban DDPAT (Factory New)",
+    "Volume": 86,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 40,
+    "Name": "Tec-9 | Urban DDPAT (Battle-Scarred)",
+    "Volume": 691,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 41,
+    "Name": "SG 553 | Army Sheen (Minimal Wear)",
+    "Volume": 2125,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 42,
+    "Name": "SG 553 | Army Sheen (Field-Tested)",
+    "Volume": 746,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 43,
+    "Name": "SG 553 | Army Sheen (Factory New)",
+    "Volume": 2327,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 44,
+    "Name": "Sawed-Off | Forest DDPAT (Well-Worn)",
+    "Volume": 418,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 45,
+    "Name": "Sawed-Off | Forest DDPAT (Minimal Wear)",
+    "Volume": 732,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 46,
+    "Name": "Sawed-Off | Forest DDPAT (Field-Tested)",
+    "Volume": 2717,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 47,
+    "Name": "Sawed-Off | Forest DDPAT (Factory New)",
+    "Volume": 44,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 48,
+    "Name": "Sawed-Off | Forest DDPAT (Battle-Scarred)",
+    "Volume": 860,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 49,
+    "Name": "R8 Revolver | Bone Mask (Well-Worn)",
+    "Volume": 445,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 50,
+    "Name": "R8 Revolver | Bone Mask (Minimal Wear)",
+    "Volume": 771,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 51,
+    "Name": "R8 Revolver | Bone Mask (Field-Tested)",
+    "Volume": 2597,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 52,
+    "Name": "R8 Revolver | Bone Mask (Factory New)",
+    "Volume": 49,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 53,
+    "Name": "R8 Revolver | Bone Mask (Battle-Scarred)",
+    "Volume": 681,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 54,
+    "Name": "P250 | Franklin (Well-Worn)",
+    "Volume": 22,
+    "LowestPrice": 2.0,
+    "AveragePrice": 2.01,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 55,
+    "Name": "P250 | Franklin (Minimal Wear)",
+    "Volume": 267,
+    "LowestPrice": 1.23,
+    "AveragePrice": 1.21,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 56,
+    "Name": "P250 | Franklin (Field-Tested)",
+    "Volume": 397,
+    "LowestPrice": 0.93,
+    "AveragePrice": 0.97,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 57,
+    "Name": "P250 | Franklin (Factory New)",
+    "Volume": 182,
+    "LowestPrice": 1.63,
+    "AveragePrice": 1.57,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 58,
+    "Name": "Nova | Caged Steel (Minimal Wear)",
+    "Volume": 829,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 59,
+    "Name": "Nova | Caged Steel (Field-Tested)",
+    "Volume": 204,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 60,
+    "Name": "Nova | Caged Steel (Factory New)",
+    "Volume": 1485,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 61,
+    "Name": "Negev | Army Sheen (Minimal Wear)",
+    "Volume": 2042,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 62,
+    "Name": "Negev | Army Sheen (Field-Tested)",
+    "Volume": 816,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 63,
+    "Name": "Negev | Army Sheen (Factory New)",
+    "Volume": 2127,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 64,
+    "Name": "MP7 | Forest DDPAT (Well-Worn)",
+    "Volume": 415,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 65,
+    "Name": "MP7 | Forest DDPAT (Minimal Wear)",
+    "Volume": 932,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 66,
+    "Name": "MP7 | Forest DDPAT (Field-Tested)",
+    "Volume": 2581,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 67,
+    "Name": "MP7 | Forest DDPAT (Factory New)",
+    "Volume": 87,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 68,
+    "Name": "MP7 | Forest DDPAT (Battle-Scarred)",
+    "Volume": 582,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 69,
+    "Name": "MAC-10 | Silver (Minimal Wear)",
+    "Volume": 114,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 70,
+    "Name": "MAC-10 | Silver (Factory New)",
+    "Volume": 2502,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 71,
+    "Name": "Glock-18 | Death Rattle (Well-Worn)",
+    "Volume": 177,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 72,
+    "Name": "Glock-18 | Death Rattle (Minimal Wear)",
+    "Volume": 732,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 73,
+    "Name": "Glock-18 | Death Rattle (Field-Tested)",
+    "Volume": 2250,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 74,
+    "Name": "Glock-18 | Death Rattle (Battle-Scarred)",
+    "Volume": 95,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 75,
+    "Name": "Galil AR | Tuxedo (Well-Worn)",
+    "Volume": 41,
+    "LowestPrice": 0.34,
+    "AveragePrice": 0.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 76,
+    "Name": "Galil AR | Tuxedo (Minimal Wear)",
+    "Volume": 316,
+    "LowestPrice": 0.77,
+    "AveragePrice": 0.79,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 77,
+    "Name": "Galil AR | Tuxedo (Field-Tested)",
+    "Volume": 460,
+    "LowestPrice": 0.39,
+    "AveragePrice": 0.39,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 78,
+    "Name": "Galil AR | Tuxedo (Factory New)",
+    "Volume": 179,
+    "LowestPrice": 1.28,
+    "AveragePrice": 1.21,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 79,
+    "Name": "Galil AR | Tuxedo (Battle-Scarred)",
+    "Volume": 96,
+    "LowestPrice": 0.28,
+    "AveragePrice": 0.28,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 80,
+    "Name": "G3SG1 | Green Apple (Minimal Wear)",
+    "Volume": 1212,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 81,
+    "Name": "G3SG1 | Green Apple (Field-Tested)",
+    "Volume": 379,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 82,
+    "Name": "G3SG1 | Green Apple (Factory New)",
+    "Volume": 838,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 83,
+    "Name": "Desert Eagle | Meteorite (Minimal Wear)",
+    "Volume": 417,
+    "LowestPrice": 0.85,
+    "AveragePrice": 0.84,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 84,
+    "Name": "Desert Eagle | Meteorite (Field-Tested)",
+    "Volume": 95,
+    "LowestPrice": 0.73,
+    "AveragePrice": 0.73,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 85,
+    "Name": "Desert Eagle | Meteorite (Factory New)",
+    "Volume": 879,
+    "LowestPrice": 1.17,
+    "AveragePrice": 1.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 86,
+    "Name": "CZ75-Auto | Tuxedo (Well-Worn)",
+    "Volume": 14,
+    "LowestPrice": 0.3,
+    "AveragePrice": 0.29,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 87,
+    "Name": "CZ75-Auto | Tuxedo (Minimal Wear)",
+    "Volume": 286,
+    "LowestPrice": 0.82,
+    "AveragePrice": 0.84,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 88,
+    "Name": "CZ75-Auto | Tuxedo (Field-Tested)",
+    "Volume": 405,
+    "LowestPrice": 0.41,
+    "AveragePrice": 0.42,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 89,
+    "Name": "CZ75-Auto | Tuxedo (Factory New)",
+    "Volume": 110,
+    "LowestPrice": 1.23,
+    "AveragePrice": 1.22,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 90,
+    "Name": "CZ75-Auto | Tuxedo (Battle-Scarred)",
+    "Volume": 75,
+    "LowestPrice": 0.23,
+    "AveragePrice": 0.25,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 91,
+    "Name": "AK-47 | Emerald Pinstripe (Well-Worn)",
+    "Volume": 437,
+    "LowestPrice": 1.78,
+    "AveragePrice": 1.75,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 92,
+    "Name": "AK-47 | Emerald Pinstripe (Minimal Wear)",
+    "Volume": 343,
+    "LowestPrice": 3.19,
+    "AveragePrice": 3.27,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 93,
+    "Name": "AK-47 | Emerald Pinstripe (Field-Tested)",
+    "Volume": 674,
+    "LowestPrice": 1.9,
+    "AveragePrice": 1.93,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 94,
+    "Name": "AK-47 | Emerald Pinstripe (Factory New)",
+    "Volume": 80,
+    "LowestPrice": 7.54,
+    "AveragePrice": 7.15,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 95,
+    "Name": "AK-47 | Emerald Pinstripe (Battle-Scarred)",
+    "Volume": 308,
+    "LowestPrice": 1.8,
+    "AveragePrice": 1.82,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 96,
+    "Name": "Tec-9 | VariCamo (Well-Worn)",
+    "Volume": 100,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 97,
+    "Name": "Tec-9 | VariCamo (Minimal Wear)",
+    "Volume": 586,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 98,
+    "Name": "Tec-9 | VariCamo (Field-Tested)",
+    "Volume": 1215,
+    "LowestPrice": 0.06,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 99,
+    "Name": "Tec-9 | VariCamo (Factory New)",
+    "Volume": 420,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 100,
+    "Name": "Tec-9 | VariCamo (Battle-Scarred)",
+    "Volume": 148,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 101,
+    "Name": "SG 553 | Damascus Steel (Well-Worn)",
+    "Volume": 182,
+    "LowestPrice": 0.27,
+    "AveragePrice": 0.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 102,
+    "Name": "SG 553 | Damascus Steel (Minimal Wear)",
+    "Volume": 179,
+    "LowestPrice": 0.85,
+    "AveragePrice": 0.83,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 103,
+    "Name": "SG 553 | Damascus Steel (Field-Tested)",
+    "Volume": 475,
+    "LowestPrice": 0.51,
+    "AveragePrice": 0.51,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 104,
+    "Name": "SG 553 | Damascus Steel (Factory New)",
+    "Volume": 39,
+    "LowestPrice": 1.47,
+    "AveragePrice": 1.51,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 105,
+    "Name": "SG 553 | Damascus Steel (Battle-Scarred)",
+    "Volume": 185,
+    "LowestPrice": 0.25,
+    "AveragePrice": 0.25,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 106,
+    "Name": "SCAR-20 | Sand Mesh (Well-Worn)",
+    "Volume": 443,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 107,
+    "Name": "SCAR-20 | Sand Mesh (Minimal Wear)",
+    "Volume": 968,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 108,
+    "Name": "SCAR-20 | Sand Mesh (Field-Tested)",
+    "Volume": 2634,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 109,
+    "Name": "SCAR-20 | Sand Mesh (Factory New)",
+    "Volume": 48,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 110,
+    "Name": "SCAR-20 | Sand Mesh (Battle-Scarred)",
+    "Volume": 681,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 111,
+    "Name": "Sawed-Off | Snake Camo (Well-Worn)",
+    "Volume": 169,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 112,
+    "Name": "Sawed-Off | Snake Camo (Minimal Wear)",
+    "Volume": 341,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 113,
+    "Name": "Sawed-Off | Snake Camo (Field-Tested)",
+    "Volume": 1800,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 114,
+    "Name": "Sawed-Off | Snake Camo (Factory New)",
+    "Volume": 7,
+    "LowestPrice": 0.21,
+    "AveragePrice": 0.21,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 115,
+    "Name": "Sawed-Off | Snake Camo (Battle-Scarred)",
+    "Volume": 351,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 116,
+    "Name": "R8 Revolver | Amber Fade (Well-Worn)",
+    "Volume": 13,
+    "LowestPrice": 1.28,
+    "AveragePrice": 1.24,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 117,
+    "Name": "R8 Revolver | Amber Fade (Minimal Wear)",
+    "Volume": 284,
+    "LowestPrice": 0.8,
+    "AveragePrice": 0.82,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 118,
+    "Name": "R8 Revolver | Amber Fade (Field-Tested)",
+    "Volume": 326,
+    "LowestPrice": 0.8,
+    "AveragePrice": 0.76,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 119,
+    "Name": "R8 Revolver | Amber Fade (Factory New)",
+    "Volume": 275,
+    "LowestPrice": 1.03,
+    "AveragePrice": 1.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 120,
+    "Name": "PP-Bizon | Brass (Well-Worn)",
+    "Volume": 218,
+    "LowestPrice": 0.28,
+    "AveragePrice": 0.28,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 121,
+    "Name": "PP-Bizon | Brass (Minimal Wear)",
+    "Volume": 174,
+    "LowestPrice": 0.81,
+    "AveragePrice": 0.8,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 122,
+    "Name": "PP-Bizon | Brass (Field-Tested)",
+    "Volume": 493,
+    "LowestPrice": 0.51,
+    "AveragePrice": 0.5,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 123,
+    "Name": "PP-Bizon | Brass (Factory New)",
+    "Volume": 33,
+    "LowestPrice": 1.3,
+    "AveragePrice": 1.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 124,
+    "Name": "PP-Bizon | Brass (Battle-Scarred)",
+    "Volume": 218,
+    "LowestPrice": 0.26,
+    "AveragePrice": 0.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 125,
+    "Name": "P90 | Sand Spray (Well-Worn)",
+    "Volume": 474,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 126,
+    "Name": "P90 | Sand Spray (Minimal Wear)",
+    "Volume": 908,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 127,
+    "Name": "P90 | Sand Spray (Field-Tested)",
+    "Volume": 3261,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 128,
+    "Name": "P90 | Sand Spray (Factory New)",
+    "Volume": 48,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 129,
+    "Name": "P90 | Sand Spray (Battle-Scarred)",
+    "Volume": 729,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 130,
+    "Name": "P250 | Sand Dune (Well-Worn)",
+    "Volume": 434,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 131,
+    "Name": "P250 | Sand Dune (Minimal Wear)",
+    "Volume": 1205,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 132,
+    "Name": "P250 | Sand Dune (Field-Tested)",
+    "Volume": 3344,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 133,
+    "Name": "P250 | Sand Dune (Factory New)",
+    "Volume": 74,
+    "LowestPrice": 0.24,
+    "AveragePrice": 0.24,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 134,
+    "Name": "P250 | Sand Dune (Battle-Scarred)",
+    "Volume": 1025,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 135,
+    "Name": "P2000 | Amber Fade (Well-Worn)",
+    "Volume": 6,
+    "LowestPrice": 1.98,
+    "AveragePrice": 1.72,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 136,
+    "Name": "P2000 | Amber Fade (Minimal Wear)",
+    "Volume": 197,
+    "LowestPrice": 3.17,
+    "AveragePrice": 3.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 137,
+    "Name": "P2000 | Amber Fade (Field-Tested)",
+    "Volume": 164,
+    "LowestPrice": 1.8,
+    "AveragePrice": 1.72,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 138,
+    "Name": "P2000 | Amber Fade (Factory New)",
+    "Volume": 153,
+    "LowestPrice": 6.28,
+    "AveragePrice": 6.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 139,
+    "Name": "Nova | Predator (Well-Worn)",
+    "Volume": 462,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 140,
+    "Name": "Nova | Predator (Minimal Wear)",
+    "Volume": 836,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 141,
+    "Name": "Nova | Predator (Field-Tested)",
+    "Volume": 2700,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 142,
+    "Name": "Nova | Predator (Factory New)",
+    "Volume": 40,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 143,
+    "Name": "Nova | Predator (Battle-Scarred)",
+    "Volume": 736,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 144,
+    "Name": "MP9 | Sand Dashed (Well-Worn)",
+    "Volume": 518,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 145,
+    "Name": "MP9 | Sand Dashed (Minimal Wear)",
+    "Volume": 928,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 146,
+    "Name": "MP9 | Sand Dashed (Field-Tested)",
+    "Volume": 3137,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 147,
+    "Name": "MP9 | Sand Dashed (Factory New)",
+    "Volume": 31,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 148,
+    "Name": "MP9 | Sand Dashed (Battle-Scarred)",
+    "Volume": 522,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 149,
+    "Name": "MAC-10 | Palm (Well-Worn)",
+    "Volume": 261,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 150,
+    "Name": "MAC-10 | Palm (Minimal Wear)",
+    "Volume": 427,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 151,
+    "Name": "MAC-10 | Palm (Field-Tested)",
+    "Volume": 1695,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 152,
+    "Name": "MAC-10 | Palm (Factory New)",
+    "Volume": 11,
+    "LowestPrice": 0.31,
+    "AveragePrice": 0.32,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 153,
+    "Name": "MAC-10 | Palm (Battle-Scarred)",
+    "Volume": 255,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 154,
+    "Name": "M4A1-S | VariCamo (Well-Worn)",
+    "Volume": 80,
+    "LowestPrice": 0.46,
+    "AveragePrice": 0.4,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 155,
+    "Name": "M4A1-S | VariCamo (Minimal Wear)",
+    "Volume": 367,
+    "LowestPrice": 0.81,
+    "AveragePrice": 0.81,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 156,
+    "Name": "M4A1-S | VariCamo (Field-Tested)",
+    "Volume": 884,
+    "LowestPrice": 0.51,
+    "AveragePrice": 0.51,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 157,
+    "Name": "M4A1-S | VariCamo (Factory New)",
+    "Volume": 160,
+    "LowestPrice": 1.24,
+    "AveragePrice": 1.19,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 158,
+    "Name": "M4A1-S | VariCamo (Battle-Scarred)",
+    "Volume": 118,
+    "LowestPrice": 0.32,
+    "AveragePrice": 0.33,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 159,
+    "Name": "G3SG1 | Desert Storm (Well-Worn)",
+    "Volume": 507,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 160,
+    "Name": "G3SG1 | Desert Storm (Minimal Wear)",
+    "Volume": 827,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 161,
+    "Name": "G3SG1 | Desert Storm (Field-Tested)",
+    "Volume": 2380,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 162,
+    "Name": "G3SG1 | Desert Storm (Factory New)",
+    "Volume": 45,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 163,
+    "Name": "G3SG1 | Desert Storm (Battle-Scarred)",
+    "Volume": 531,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 164,
+    "Name": "Five-SeveN | Orange Peel (Well-Worn)",
+    "Volume": 227,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 165,
+    "Name": "Five-SeveN | Orange Peel (Minimal Wear)",
+    "Volume": 502,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.11,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 166,
+    "Name": "Five-SeveN | Orange Peel (Field-Tested)",
+    "Volume": 1704,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 167,
+    "Name": "Five-SeveN | Orange Peel (Factory New)",
+    "Volume": 13,
+    "LowestPrice": 0.35,
+    "AveragePrice": 0.32,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 168,
+    "Name": "Five-SeveN | Orange Peel (Battle-Scarred)",
+    "Volume": 343,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 169,
+    "Name": "AK-47 | Safari Mesh (Well-Worn)",
+    "Volume": 688,
+    "LowestPrice": 0.24,
+    "AveragePrice": 0.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 170,
+    "Name": "AK-47 | Safari Mesh (Minimal Wear)",
+    "Volume": 877,
+    "LowestPrice": 0.43,
+    "AveragePrice": 0.45,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 171,
+    "Name": "AK-47 | Safari Mesh (Field-Tested)",
+    "Volume": 4734,
+    "LowestPrice": 0.17,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 172,
+    "Name": "AK-47 | Safari Mesh (Factory New)",
+    "Volume": 29,
+    "LowestPrice": 3.16,
+    "AveragePrice": 2.96,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 173,
+    "Name": "AK-47 | Safari Mesh (Battle-Scarred)",
+    "Volume": 866,
+    "LowestPrice": 0.18,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 174,
+    "Name": "USP-S | Check Engine (Well-Worn)",
+    "Volume": 22,
+    "LowestPrice": 2.11,
+    "AveragePrice": 2.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 175,
+    "Name": "USP-S | Check Engine (Minimal Wear)",
+    "Volume": 210,
+    "LowestPrice": 2.48,
+    "AveragePrice": 2.42,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 176,
+    "Name": "USP-S | Check Engine (Field-Tested)",
+    "Volume": 240,
+    "LowestPrice": 2.09,
+    "AveragePrice": 2.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 177,
+    "Name": "USP-S | Check Engine (Factory New)",
+    "Volume": 176,
+    "LowestPrice": 2.9,
+    "AveragePrice": 3.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 178,
+    "Name": "USP-S | Check Engine (Battle-Scarred)",
+    "Volume": 29,
+    "LowestPrice": 1.8,
+    "AveragePrice": 1.86,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 179,
+    "Name": "UMP-45 | Mudder (Well-Worn)",
+    "Volume": 370,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 180,
+    "Name": "UMP-45 | Mudder (Minimal Wear)",
+    "Volume": 727,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 181,
+    "Name": "UMP-45 | Mudder (Field-Tested)",
+    "Volume": 2118,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 182,
+    "Name": "UMP-45 | Mudder (Factory New)",
+    "Volume": 34,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 183,
+    "Name": "UMP-45 | Mudder (Battle-Scarred)",
+    "Volume": 529,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 184,
+    "Name": "SSG 08 | Hand Brake (Well-Worn)",
+    "Volume": 109,
+    "LowestPrice": 1.95,
+    "AveragePrice": 1.94,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 185,
+    "Name": "SSG 08 | Hand Brake (Minimal Wear)",
+    "Volume": 100,
+    "LowestPrice": 2.3,
+    "AveragePrice": 2.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 186,
+    "Name": "SSG 08 | Hand Brake (Field-Tested)",
+    "Volume": 140,
+    "LowestPrice": 2.19,
+    "AveragePrice": 1.88,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 187,
+    "Name": "SSG 08 | Hand Brake (Factory New)",
+    "Volume": 41,
+    "LowestPrice": 2.76,
+    "AveragePrice": 3.76,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 188,
+    "Name": "SSG 08 | Hand Brake (Battle-Scarred)",
+    "Volume": 88,
+    "LowestPrice": 1.52,
+    "AveragePrice": 1.47,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 189,
+    "Name": "SG 553 | Integrale (Well-Worn)",
+    "Volume": 12,
+    "LowestPrice": 77.0,
+    "AveragePrice": 79.75,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 190,
+    "Name": "SG 553 | Integrale (Minimal Wear)",
+    "Volume": 3,
+    "LowestPrice": 243.0,
+    "AveragePrice": 248.45,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 191,
+    "Name": "SG 553 | Integrale (Field-Tested)",
+    "Volume": 9,
+    "LowestPrice": 134.98,
+    "AveragePrice": 129.34,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 192,
+    "Name": "SG 553 | Integrale (Factory New)",
+    "Volume": 0,
+    "LowestPrice": 383.71,
+    "AveragePrice": 0.0,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 193,
+    "Name": "SG 553 | Integrale (Battle-Scarred)",
+    "Volume": 5,
+    "LowestPrice": 47.65,
+    "AveragePrice": 46.38,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 194,
+    "Name": "Sawed-Off | Brake Light (Minimal Wear)",
+    "Volume": 18,
+    "LowestPrice": 2.65,
+    "AveragePrice": 2.24,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 195,
+    "Name": "Sawed-Off | Brake Light (Factory New)",
+    "Volume": 401,
+    "LowestPrice": 2.48,
+    "AveragePrice": 2.7,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 196,
+    "Name": "R8 Revolver | Nitro (Well-Worn)",
+    "Volume": 122,
+    "LowestPrice": 0.23,
+    "AveragePrice": 0.23,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 197,
+    "Name": "R8 Revolver | Nitro (Minimal Wear)",
+    "Volume": 309,
+    "LowestPrice": 0.28,
+    "AveragePrice": 0.29,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 198,
+    "Name": "R8 Revolver | Nitro (Field-Tested)",
+    "Volume": 1254,
+    "LowestPrice": 0.21,
+    "AveragePrice": 0.23,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 199,
+    "Name": "R8 Revolver | Nitro (Factory New)",
+    "Volume": 25,
+    "LowestPrice": 0.94,
+    "AveragePrice": 0.88,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 200,
+    "Name": "R8 Revolver | Nitro (Battle-Scarred)",
+    "Volume": 256,
+    "LowestPrice": 0.23,
+    "AveragePrice": 0.21,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 201,
+    "Name": "PP-Bizon | Candy Apple (Minimal Wear)",
+    "Volume": 862,
+    "LowestPrice": 0.27,
+    "AveragePrice": 0.28,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 202,
+    "Name": "PP-Bizon | Candy Apple (Field-Tested)",
+    "Volume": 254,
+    "LowestPrice": 0.24,
+    "AveragePrice": 0.23,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 203,
+    "Name": "PP-Bizon | Candy Apple (Factory New)",
+    "Volume": 594,
+    "LowestPrice": 0.31,
+    "AveragePrice": 0.29,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 204,
+    "Name": "P250 | Vino Primo (Well-Worn)",
+    "Volume": 23,
+    "LowestPrice": 9.71,
+    "AveragePrice": 9.6,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 205,
+    "Name": "P250 | Vino Primo (Minimal Wear)",
+    "Volume": 19,
+    "LowestPrice": 17.96,
+    "AveragePrice": 17.65,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 206,
+    "Name": "P250 | Vino Primo (Field-Tested)",
+    "Volume": 29,
+    "LowestPrice": 13.8,
+    "AveragePrice": 13.78,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 207,
+    "Name": "P250 | Vino Primo (Factory New)",
+    "Volume": 8,
+    "LowestPrice": 24.78,
+    "AveragePrice": 22.64,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 208,
+    "Name": "P250 | Vino Primo (Battle-Scarred)",
+    "Volume": 11,
+    "LowestPrice": 7.85,
+    "AveragePrice": 7.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 209,
+    "Name": "MP9 | Slide (Well-Worn)",
+    "Volume": 334,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 210,
+    "Name": "MP9 | Slide (Minimal Wear)",
+    "Volume": 700,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 211,
+    "Name": "MP9 | Slide (Field-Tested)",
+    "Volume": 2327,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 212,
+    "Name": "MP9 | Slide (Factory New)",
+    "Volume": 49,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.11,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 213,
+    "Name": "MP9 | Slide (Battle-Scarred)",
+    "Volume": 473,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 214,
+    "Name": "MP7 | Fade (Minimal Wear)",
+    "Volume": 32,
+    "LowestPrice": 17.48,
+    "AveragePrice": 16.41,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 215,
+    "Name": "MP7 | Fade (Field-Tested)",
+    "Volume": 14,
+    "LowestPrice": 15.59,
+    "AveragePrice": 14.99,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 216,
+    "Name": "MP7 | Fade (Factory New)",
+    "Volume": 55,
+    "LowestPrice": 20.89,
+    "AveragePrice": 20.56,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 217,
+    "Name": "MP5-SD | Dirt Drop (Well-Worn)",
+    "Volume": 396,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 218,
+    "Name": "MP5-SD | Dirt Drop (Minimal Wear)",
+    "Volume": 707,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.04,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 219,
+    "Name": "MP5-SD | Dirt Drop (Field-Tested)",
+    "Volume": 2629,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 220,
+    "Name": "MP5-SD | Dirt Drop (Factory New)",
+    "Volume": 55,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 221,
+    "Name": "MP5-SD | Dirt Drop (Battle-Scarred)",
+    "Volume": 677,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 222,
+    "Name": "MAG-7 | Rust Coat (Well-Worn)",
+    "Volume": 863,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 223,
+    "Name": "MAG-7 | Rust Coat (Minimal Wear)",
+    "Volume": 929,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 224,
+    "Name": "MAG-7 | Rust Coat (Field-Tested)",
+    "Volume": 1109,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 225,
+    "Name": "MAG-7 | Rust Coat (Factory New)",
+    "Volume": 185,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 226,
+    "Name": "MAG-7 | Rust Coat (Battle-Scarred)",
+    "Volume": 859,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 227,
+    "Name": "MAC-10 | Calf Skin (Well-Worn)",
+    "Volume": 351,
+    "LowestPrice": 0.23,
+    "AveragePrice": 0.22,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 228,
+    "Name": "MAC-10 | Calf Skin (Minimal Wear)",
+    "Volume": 481,
+    "LowestPrice": 0.29,
+    "AveragePrice": 0.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 229,
+    "Name": "MAC-10 | Calf Skin (Field-Tested)",
+    "Volume": 762,
+    "LowestPrice": 0.23,
+    "AveragePrice": 0.23,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 230,
+    "Name": "MAC-10 | Calf Skin (Factory New)",
+    "Volume": 70,
+    "LowestPrice": 0.66,
+    "AveragePrice": 0.66,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 231,
+    "Name": "MAC-10 | Calf Skin (Battle-Scarred)",
+    "Volume": 220,
+    "LowestPrice": 0.2,
+    "AveragePrice": 0.2,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 232,
+    "Name": "M4A4 | Converter (Well-Worn)",
+    "Volume": 17,
+    "LowestPrice": 2.5,
+    "AveragePrice": 2.51,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 233,
+    "Name": "M4A4 | Converter (Minimal Wear)",
+    "Volume": 383,
+    "LowestPrice": 2.5,
+    "AveragePrice": 2.44,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 234,
+    "Name": "M4A4 | Converter (Field-Tested)",
+    "Volume": 266,
+    "LowestPrice": 2.16,
+    "AveragePrice": 1.94,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 235,
+    "Name": "M4A4 | Converter (Factory New)",
+    "Volume": 345,
+    "LowestPrice": 2.81,
+    "AveragePrice": 2.9,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 236,
+    "Name": "Glock-18 | High Beam (Minimal Wear)",
+    "Volume": 144,
+    "LowestPrice": 0.6,
+    "AveragePrice": 0.59,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 237,
+    "Name": "Glock-18 | High Beam (Factory New)",
+    "Volume": 2687,
+    "LowestPrice": 0.3,
+    "AveragePrice": 0.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 238,
+    "Name": "Dual Berettas | Twin Turbo (Well-Worn)",
+    "Volume": 18,
+    "LowestPrice": 2.78,
+    "AveragePrice": 2.73,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 239,
+    "Name": "Dual Berettas | Twin Turbo (Minimal Wear)",
+    "Volume": 14,
+    "LowestPrice": 6.81,
+    "AveragePrice": 6.52,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 240,
+    "Name": "Dual Berettas | Twin Turbo (Field-Tested)",
+    "Volume": 16,
+    "LowestPrice": 4.5,
+    "AveragePrice": 4.23,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 241,
+    "Name": "Dual Berettas | Twin Turbo (Factory New)",
+    "Volume": 10,
+    "LowestPrice": 10.99,
+    "AveragePrice": 13.27,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 242,
+    "Name": "Dual Berettas | Twin Turbo (Battle-Scarred)",
+    "Volume": 12,
+    "LowestPrice": 2.45,
+    "AveragePrice": 2.46,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 243,
+    "Name": "AUG | Sweeper (Well-Worn)",
+    "Volume": 171,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 244,
+    "Name": "AUG | Sweeper (Minimal Wear)",
+    "Volume": 1291,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.04,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 245,
+    "Name": "AUG | Sweeper (Field-Tested)",
+    "Volume": 2430,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 246,
+    "Name": "AUG | Sweeper (Factory New)",
+    "Volume": 850,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 247,
+    "Name": "AUG | Sweeper (Battle-Scarred)",
+    "Volume": 331,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 248,
+    "Name": "AK-47 | Safety Net (Well-Worn)",
+    "Volume": 6,
+    "LowestPrice": 11.5,
+    "AveragePrice": 11.41,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 249,
+    "Name": "AK-47 | Safety Net (Minimal Wear)",
+    "Volume": 33,
+    "LowestPrice": 17.51,
+    "AveragePrice": 17.51,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 250,
+    "Name": "AK-47 | Safety Net (Field-Tested)",
+    "Volume": 66,
+    "LowestPrice": 13.51,
+    "AveragePrice": 13.32,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 251,
+    "Name": "AK-47 | Safety Net (Factory New)",
+    "Volume": 28,
+    "LowestPrice": 20.98,
+    "AveragePrice": 20.88,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 252,
+    "Name": "AK-47 | Safety Net (Battle-Scarred)",
+    "Volume": 21,
+    "LowestPrice": 9.66,
+    "AveragePrice": 9.52,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 253,
+    "Name": "XM1014 | CaliCamo (Well-Worn)",
+    "Volume": 43,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 254,
+    "Name": "XM1014 | CaliCamo (Minimal Wear)",
+    "Volume": 517,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 255,
+    "Name": "XM1014 | CaliCamo (Field-Tested)",
+    "Volume": 1340,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 256,
+    "Name": "XM1014 | CaliCamo (Factory New)",
+    "Volume": 269,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 257,
+    "Name": "XM1014 | CaliCamo (Battle-Scarred)",
+    "Volume": 159,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 258,
+    "Name": "UMP-45 | Gunsmoke (Well-Worn)",
+    "Volume": 112,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 259,
+    "Name": "UMP-45 | Gunsmoke (Minimal Wear)",
+    "Volume": 361,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 260,
+    "Name": "UMP-45 | Gunsmoke (Field-Tested)",
+    "Volume": 1568,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 261,
+    "Name": "UMP-45 | Gunsmoke (Factory New)",
+    "Volume": 13,
+    "LowestPrice": 0.49,
+    "AveragePrice": 0.46,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 262,
+    "Name": "UMP-45 | Gunsmoke (Battle-Scarred)",
+    "Volume": 286,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 263,
+    "Name": "Tec-9 | Groundwater (Well-Worn)",
+    "Volume": 472,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 264,
+    "Name": "Tec-9 | Groundwater (Minimal Wear)",
+    "Volume": 711,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 265,
+    "Name": "Tec-9 | Groundwater (Field-Tested)",
+    "Volume": 2718,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 266,
+    "Name": "Tec-9 | Groundwater (Factory New)",
+    "Volume": 23,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 267,
+    "Name": "Tec-9 | Groundwater (Battle-Scarred)",
+    "Volume": 680,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 268,
+    "Name": "Sawed-Off | Full Stop (Well-Worn)",
+    "Volume": 28,
+    "LowestPrice": 0.28,
+    "AveragePrice": 0.28,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 269,
+    "Name": "Sawed-Off | Full Stop (Minimal Wear)",
+    "Volume": 320,
+    "LowestPrice": 0.57,
+    "AveragePrice": 0.59,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 270,
+    "Name": "Sawed-Off | Full Stop (Field-Tested)",
+    "Volume": 461,
+    "LowestPrice": 0.32,
+    "AveragePrice": 0.32,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 271,
+    "Name": "Sawed-Off | Full Stop (Factory New)",
+    "Volume": 110,
+    "LowestPrice": 0.8,
+    "AveragePrice": 0.76,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 272,
+    "Name": "Sawed-Off | Full Stop (Battle-Scarred)",
+    "Volume": 78,
+    "LowestPrice": 0.23,
+    "AveragePrice": 0.25,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 273,
+    "Name": "PP-Bizon | Sand Dashed (Well-Worn)",
+    "Volume": 482,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 274,
+    "Name": "PP-Bizon | Sand Dashed (Minimal Wear)",
+    "Volume": 991,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 275,
+    "Name": "PP-Bizon | Sand Dashed (Field-Tested)",
+    "Volume": 2958,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 276,
+    "Name": "PP-Bizon | Sand Dashed (Factory New)",
+    "Volume": 74,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 277,
+    "Name": "PP-Bizon | Sand Dashed (Battle-Scarred)",
+    "Volume": 685,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 278,
+    "Name": "P2000 | Granite Marbleized (Well-Worn)",
+    "Volume": 250,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 279,
+    "Name": "P2000 | Granite Marbleized (Minimal Wear)",
+    "Volume": 282,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 280,
+    "Name": "P2000 | Granite Marbleized (Field-Tested)",
+    "Volume": 1638,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 281,
+    "Name": "P2000 | Granite Marbleized (Factory New)",
+    "Volume": 11,
+    "LowestPrice": 0.23,
+    "AveragePrice": 0.22,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 282,
+    "Name": "P2000 | Granite Marbleized (Battle-Scarred)",
+    "Volume": 240,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 283,
+    "Name": "Nova | Sand Dune (Well-Worn)",
+    "Volume": 504,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 284,
+    "Name": "Nova | Sand Dune (Minimal Wear)",
+    "Volume": 965,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 285,
+    "Name": "Nova | Sand Dune (Field-Tested)",
+    "Volume": 3022,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 286,
+    "Name": "Nova | Sand Dune (Factory New)",
+    "Volume": 73,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 287,
+    "Name": "Nova | Sand Dune (Battle-Scarred)",
+    "Volume": 811,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 288,
+    "Name": "Nova | Candy Apple (Minimal Wear)",
+    "Volume": 1697,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 289,
+    "Name": "Nova | Candy Apple (Field-Tested)",
+    "Volume": 456,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 290,
+    "Name": "Nova | Candy Apple (Factory New)",
+    "Volume": 1021,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 291,
+    "Name": "MP7 | Anodized Navy (Minimal Wear)",
+    "Volume": 48,
+    "LowestPrice": 0.85,
+    "AveragePrice": 0.86,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 292,
+    "Name": "MP7 | Anodized Navy (Factory New)",
+    "Volume": 818,
+    "LowestPrice": 0.84,
+    "AveragePrice": 0.84,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 293,
+    "Name": "M4A1-S | Boreal Forest (Well-Worn)",
+    "Volume": 465,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 294,
+    "Name": "M4A1-S | Boreal Forest (Minimal Wear)",
+    "Volume": 943,
+    "LowestPrice": 0.23,
+    "AveragePrice": 0.24,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 295,
+    "Name": "M4A1-S | Boreal Forest (Field-Tested)",
+    "Volume": 3131,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 296,
+    "Name": "M4A1-S | Boreal Forest (Factory New)",
+    "Volume": 19,
+    "LowestPrice": 1.92,
+    "AveragePrice": 1.67,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 297,
+    "Name": "M4A1-S | Boreal Forest (Battle-Scarred)",
+    "Volume": 542,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 298,
+    "Name": "Glock-18 | Candy Apple (Minimal Wear)",
+    "Volume": 971,
+    "LowestPrice": 0.61,
+    "AveragePrice": 0.64,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 299,
+    "Name": "Glock-18 | Candy Apple (Field-Tested)",
+    "Volume": 299,
+    "LowestPrice": 0.54,
+    "AveragePrice": 0.52,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 300,
+    "Name": "Glock-18 | Candy Apple (Factory New)",
+    "Volume": 660,
+    "LowestPrice": 0.94,
+    "AveragePrice": 0.91,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 301,
+    "Name": "FAMAS | Colony (Well-Worn)",
+    "Volume": 576,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 302,
+    "Name": "FAMAS | Colony (Minimal Wear)",
+    "Volume": 1355,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 303,
+    "Name": "FAMAS | Colony (Field-Tested)",
+    "Volume": 3192,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 304,
+    "Name": "FAMAS | Colony (Factory New)",
+    "Volume": 81,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 305,
+    "Name": "FAMAS | Colony (Battle-Scarred)",
+    "Volume": 860,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 306,
+    "Name": "Dual Berettas | Stained (Well-Worn)",
+    "Volume": 366,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 307,
+    "Name": "Dual Berettas | Stained (Minimal Wear)",
+    "Volume": 412,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 308,
+    "Name": "Dual Berettas | Stained (Field-Tested)",
+    "Volume": 1497,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 309,
+    "Name": "Dual Berettas | Stained (Factory New)",
+    "Volume": 54,
+    "LowestPrice": 0.16,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 310,
+    "Name": "Dual Berettas | Stained (Battle-Scarred)",
+    "Volume": 403,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 311,
+    "Name": "AWP | Pit Viper (Well-Worn)",
+    "Volume": 96,
+    "LowestPrice": 1.31,
+    "AveragePrice": 1.28,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 312,
+    "Name": "AWP | Pit Viper (Minimal Wear)",
+    "Volume": 1134,
+    "LowestPrice": 1.15,
+    "AveragePrice": 1.15,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 313,
+    "Name": "AWP | Pit Viper (Field-Tested)",
+    "Volume": 1357,
+    "LowestPrice": 0.86,
+    "AveragePrice": 0.89,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 314,
+    "Name": "AWP | Pit Viper (Battle-Scarred)",
+    "Volume": 71,
+    "LowestPrice": 1.24,
+    "AveragePrice": 1.32,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 315,
+    "Name": "AUG | Contractor (Well-Worn)",
+    "Volume": 500,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 316,
+    "Name": "AUG | Contractor (Minimal Wear)",
+    "Volume": 1099,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 317,
+    "Name": "AUG | Contractor (Field-Tested)",
+    "Volume": 3708,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 318,
+    "Name": "AUG | Contractor (Factory New)",
+    "Volume": 176,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 319,
+    "Name": "AUG | Contractor (Battle-Scarred)",
+    "Volume": 835,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 320,
+    "Name": "XM1014 | Blue Steel (Well-Worn)",
+    "Volume": 522,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 321,
+    "Name": "XM1014 | Blue Steel (Minimal Wear)",
+    "Volume": 388,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 322,
+    "Name": "XM1014 | Blue Steel (Field-Tested)",
+    "Volume": 1010,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 323,
+    "Name": "XM1014 | Blue Steel (Factory New)",
+    "Volume": 81,
+    "LowestPrice": 0.18,
+    "AveragePrice": 0.19,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 324,
+    "Name": "XM1014 | Blue Steel (Battle-Scarred)",
+    "Volume": 387,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 325,
+    "Name": "XM1014 | Blue Spruce (Well-Worn)",
+    "Volume": 461,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 326,
+    "Name": "XM1014 | Blue Spruce (Minimal Wear)",
+    "Volume": 1059,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 327,
+    "Name": "XM1014 | Blue Spruce (Field-Tested)",
+    "Volume": 2624,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 328,
+    "Name": "XM1014 | Blue Spruce (Factory New)",
+    "Volume": 46,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 329,
+    "Name": "XM1014 | Blue Spruce (Battle-Scarred)",
+    "Volume": 632,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 330,
+    "Name": "USP-S | Night Ops (Well-Worn)",
+    "Volume": 87,
+    "LowestPrice": 0.54,
+    "AveragePrice": 0.59,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 331,
+    "Name": "USP-S | Night Ops (Minimal Wear)",
+    "Volume": 617,
+    "LowestPrice": 0.62,
+    "AveragePrice": 0.65,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 332,
+    "Name": "USP-S | Night Ops (Field-Tested)",
+    "Volume": 1186,
+    "LowestPrice": 0.37,
+    "AveragePrice": 0.35,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 333,
+    "Name": "USP-S | Night Ops (Factory New)",
+    "Volume": 225,
+    "LowestPrice": 0.88,
+    "AveragePrice": 0.88,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 334,
+    "Name": "USP-S | Night Ops (Battle-Scarred)",
+    "Volume": 159,
+    "LowestPrice": 0.43,
+    "AveragePrice": 0.41,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 335,
+    "Name": "SG 553 | Waves Perforated (Well-Worn)",
+    "Volume": 651,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 336,
+    "Name": "SG 553 | Waves Perforated (Minimal Wear)",
+    "Volume": 1167,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 337,
+    "Name": "SG 553 | Waves Perforated (Field-Tested)",
+    "Volume": 2989,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 338,
+    "Name": "SG 553 | Waves Perforated (Factory New)",
+    "Volume": 80,
+    "LowestPrice": 0.28,
+    "AveragePrice": 0.28,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 339,
+    "Name": "SG 553 | Waves Perforated (Battle-Scarred)",
+    "Volume": 663,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 340,
+    "Name": "SG 553 | Anodized Navy (Minimal Wear)",
+    "Volume": 55,
+    "LowestPrice": 0.73,
+    "AveragePrice": 0.72,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 341,
+    "Name": "SG 553 | Anodized Navy (Factory New)",
+    "Volume": 816,
+    "LowestPrice": 0.81,
+    "AveragePrice": 0.8,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 342,
+    "Name": "PP-Bizon | Night Ops (Well-Worn)",
+    "Volume": 129,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 343,
+    "Name": "PP-Bizon | Night Ops (Minimal Wear)",
+    "Volume": 586,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 344,
+    "Name": "PP-Bizon | Night Ops (Field-Tested)",
+    "Volume": 1341,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 345,
+    "Name": "PP-Bizon | Night Ops (Factory New)",
+    "Volume": 330,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 346,
+    "Name": "PP-Bizon | Night Ops (Battle-Scarred)",
+    "Volume": 146,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.05,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 347,
+    "Name": "P90 | Teardown (Well-Worn)",
+    "Volume": 48,
+    "LowestPrice": 0.27,
+    "AveragePrice": 0.28,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 348,
+    "Name": "P90 | Teardown (Minimal Wear)",
+    "Volume": 251,
+    "LowestPrice": 0.53,
+    "AveragePrice": 0.54,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 349,
+    "Name": "P90 | Teardown (Field-Tested)",
+    "Volume": 495,
+    "LowestPrice": 0.37,
+    "AveragePrice": 0.35,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 350,
+    "Name": "P90 | Teardown (Factory New)",
+    "Volume": 141,
+    "LowestPrice": 0.84,
+    "AveragePrice": 0.81,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 351,
+    "Name": "P90 | Teardown (Battle-Scarred)",
+    "Volume": 58,
+    "LowestPrice": 0.0,
+    "AveragePrice": 0.23,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 352,
+    "Name": "P250 | Boreal Forest (Well-Worn)",
+    "Volume": 520,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 353,
+    "Name": "P250 | Boreal Forest (Minimal Wear)",
+    "Volume": 1164,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 354,
+    "Name": "P250 | Boreal Forest (Field-Tested)",
+    "Volume": 3346,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 355,
+    "Name": "P250 | Boreal Forest (Factory New)",
+    "Volume": 64,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 356,
+    "Name": "P250 | Boreal Forest (Battle-Scarred)",
+    "Volume": 594,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 357,
+    "Name": "Galil AR | Sage Spray (Well-Worn)",
+    "Volume": 575,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 358,
+    "Name": "Galil AR | Sage Spray (Minimal Wear)",
+    "Volume": 1182,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 359,
+    "Name": "Galil AR | Sage Spray (Field-Tested)",
+    "Volume": 2961,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 360,
+    "Name": "Galil AR | Sage Spray (Factory New)",
+    "Volume": 56,
+    "LowestPrice": 0.16,
+    "AveragePrice": 0.16,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 361,
+    "Name": "Galil AR | Sage Spray (Battle-Scarred)",
+    "Volume": 654,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 362,
+    "Name": "G3SG1 | Jungle Dashed (Well-Worn)",
+    "Volume": 448,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 363,
+    "Name": "G3SG1 | Jungle Dashed (Minimal Wear)",
+    "Volume": 711,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 364,
+    "Name": "G3SG1 | Jungle Dashed (Field-Tested)",
+    "Volume": 2640,
+    "LowestPrice": 0.03,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 365,
+    "Name": "G3SG1 | Jungle Dashed (Factory New)",
+    "Volume": 21,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.11,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 366,
+    "Name": "G3SG1 | Jungle Dashed (Battle-Scarred)",
+    "Volume": 639,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 367,
+    "Name": "FAMAS | Cyanospatter (Well-Worn)",
+    "Volume": 287,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 368,
+    "Name": "FAMAS | Cyanospatter (Minimal Wear)",
+    "Volume": 504,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 369,
+    "Name": "FAMAS | Cyanospatter (Field-Tested)",
+    "Volume": 1708,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 370,
+    "Name": "FAMAS | Cyanospatter (Factory New)",
+    "Volume": 24,
+    "LowestPrice": 0.95,
+    "AveragePrice": 0.78,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 371,
+    "Name": "FAMAS | Cyanospatter (Battle-Scarred)",
+    "Volume": 303,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 372,
+    "Name": "Dual Berettas | Cobalt Quartz (Well-Worn)",
+    "Volume": 43,
+    "LowestPrice": 0.31,
+    "AveragePrice": 0.29,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 373,
+    "Name": "Dual Berettas | Cobalt Quartz (Minimal Wear)",
+    "Volume": 745,
+    "LowestPrice": 0.18,
+    "AveragePrice": 0.19,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 374,
+    "Name": "Dual Berettas | Cobalt Quartz (Field-Tested)",
+    "Volume": 792,
+    "LowestPrice": 0.18,
+    "AveragePrice": 0.16,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 375,
+    "Name": "Dual Berettas | Cobalt Quartz (Factory New)",
+    "Volume": 426,
+    "LowestPrice": 0.23,
+    "AveragePrice": 0.23,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 376,
+    "Name": "Desert Eagle | Mudder (Well-Worn)",
+    "Volume": 464,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 377,
+    "Name": "Desert Eagle | Mudder (Minimal Wear)",
+    "Volume": 1051,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 378,
+    "Name": "Desert Eagle | Mudder (Field-Tested)",
+    "Volume": 2764,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 379,
+    "Name": "Desert Eagle | Mudder (Factory New)",
+    "Volume": 30,
+    "LowestPrice": 0.84,
+    "AveragePrice": 0.83,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 380,
+    "Name": "Desert Eagle | Mudder (Battle-Scarred)",
+    "Volume": 652,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 381,
+    "Name": "AWP | Safari Mesh (Well-Worn)",
+    "Volume": 610,
+    "LowestPrice": 0.19,
+    "AveragePrice": 0.2,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 382,
+    "Name": "AWP | Safari Mesh (Minimal Wear)",
+    "Volume": 1334,
+    "LowestPrice": 0.36,
+    "AveragePrice": 0.35,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 383,
+    "Name": "AWP | Safari Mesh (Field-Tested)",
+    "Volume": 4651,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 384,
+    "Name": "AWP | Safari Mesh (Factory New)",
+    "Volume": 32,
+    "LowestPrice": 1.98,
+    "AveragePrice": 2.0,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 385,
+    "Name": "AWP | Safari Mesh (Battle-Scarred)",
+    "Volume": 940,
+    "LowestPrice": 0.35,
+    "AveragePrice": 0.33,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 386,
+    "Name": "AUG | Storm (Well-Worn)",
+    "Volume": 577,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 387,
+    "Name": "AUG | Storm (Minimal Wear)",
+    "Volume": 1024,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 388,
+    "Name": "AUG | Storm (Field-Tested)",
+    "Volume": 3394,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 389,
+    "Name": "AUG | Storm (Factory New)",
+    "Volume": 73,
+    "LowestPrice": 0.18,
+    "AveragePrice": 0.18,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 390,
+    "Name": "AUG | Storm (Battle-Scarred)",
+    "Volume": 684,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 391,
+    "Name": "UMP-45 | Facility Dark (Well-Worn)",
+    "Volume": 154,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 392,
+    "Name": "UMP-45 | Facility Dark (Minimal Wear)",
+    "Volume": 886,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 393,
+    "Name": "UMP-45 | Facility Dark (Field-Tested)",
+    "Volume": 1351,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 394,
+    "Name": "UMP-45 | Facility Dark (Factory New)",
+    "Volume": 1121,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 395,
+    "Name": "UMP-45 | Facility Dark (Battle-Scarred)",
+    "Volume": 81,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 396,
+    "Name": "Tec-9 | Remote Control (Well-Worn)",
+    "Volume": 37,
+    "LowestPrice": 1.56,
+    "AveragePrice": 1.46,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 397,
+    "Name": "Tec-9 | Remote Control (Minimal Wear)",
+    "Volume": 23,
+    "LowestPrice": 2.21,
+    "AveragePrice": 2.22,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 398,
+    "Name": "Tec-9 | Remote Control (Field-Tested)",
+    "Volume": 35,
+    "LowestPrice": 1.53,
+    "AveragePrice": 1.46,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 399,
+    "Name": "Tec-9 | Remote Control (Factory New)",
+    "Volume": 4,
+    "LowestPrice": 6.79,
+    "AveragePrice": 6.78,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 400,
+    "Name": "Tec-9 | Remote Control (Battle-Scarred)",
+    "Volume": 21,
+    "LowestPrice": 1.5,
+    "AveragePrice": 1.45,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 401,
+    "Name": "PP-Bizon | Facility Sketch (Well-Worn)",
+    "Volume": 196,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 402,
+    "Name": "PP-Bizon | Facility Sketch (Minimal Wear)",
+    "Volume": 822,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 403,
+    "Name": "PP-Bizon | Facility Sketch (Field-Tested)",
+    "Volume": 1701,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 404,
+    "Name": "PP-Bizon | Facility Sketch (Factory New)",
+    "Volume": 1050,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 405,
+    "Name": "PP-Bizon | Facility Sketch (Battle-Scarred)",
+    "Volume": 112,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.04,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 406,
+    "Name": "P90 | Facility Negative (Well-Worn)",
+    "Volume": 22,
+    "LowestPrice": 0.28,
+    "AveragePrice": 0.24,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 407,
+    "Name": "P90 | Facility Negative (Minimal Wear)",
+    "Volume": 124,
+    "LowestPrice": 0.51,
+    "AveragePrice": 0.47,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 408,
+    "Name": "P90 | Facility Negative (Field-Tested)",
+    "Volume": 192,
+    "LowestPrice": 0.3,
+    "AveragePrice": 0.3,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 409,
+    "Name": "P90 | Facility Negative (Factory New)",
+    "Volume": 103,
+    "LowestPrice": 0.7,
+    "AveragePrice": 0.68,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 410,
+    "Name": "P90 | Facility Negative (Battle-Scarred)",
+    "Volume": 10,
+    "LowestPrice": 0.28,
+    "AveragePrice": 0.29,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 411,
+    "Name": "P250 | Facility Draft (Well-Worn)",
+    "Volume": 241,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 412,
+    "Name": "P250 | Facility Draft (Minimal Wear)",
+    "Volume": 1241,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 413,
+    "Name": "P250 | Facility Draft (Field-Tested)",
+    "Volume": 1764,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 414,
+    "Name": "P250 | Facility Draft (Factory New)",
+    "Volume": 1481,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 415,
+    "Name": "P250 | Facility Draft (Battle-Scarred)",
+    "Volume": 154,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 416,
+    "Name": "P250 | Exchanger (Well-Worn)",
+    "Volume": 21,
+    "LowestPrice": 0.31,
+    "AveragePrice": 0.29,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 417,
+    "Name": "P250 | Exchanger (Minimal Wear)",
+    "Volume": 129,
+    "LowestPrice": 0.46,
+    "AveragePrice": 0.46,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 418,
+    "Name": "P250 | Exchanger (Field-Tested)",
+    "Volume": 220,
+    "LowestPrice": 0.3,
+    "AveragePrice": 0.33,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 419,
+    "Name": "P250 | Exchanger (Factory New)",
+    "Volume": 78,
+    "LowestPrice": 0.62,
+    "AveragePrice": 0.6,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 420,
+    "Name": "P250 | Exchanger (Battle-Scarred)",
+    "Volume": 9,
+    "LowestPrice": 0.26,
+    "AveragePrice": 0.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 421,
+    "Name": "Nova | Mandrel (Well-Worn)",
+    "Volume": 143,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 422,
+    "Name": "Nova | Mandrel (Minimal Wear)",
+    "Volume": 950,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 423,
+    "Name": "Nova | Mandrel (Field-Tested)",
+    "Volume": 1321,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 424,
+    "Name": "Nova | Mandrel (Factory New)",
+    "Volume": 1052,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 425,
+    "Name": "Nova | Mandrel (Battle-Scarred)",
+    "Volume": 71,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 426,
+    "Name": "Negev | Bulkhead (Well-Worn)",
+    "Volume": 76,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.11,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 427,
+    "Name": "Negev | Bulkhead (Minimal Wear)",
+    "Volume": 481,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.16,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 428,
+    "Name": "Negev | Bulkhead (Field-Tested)",
+    "Volume": 724,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 429,
+    "Name": "Negev | Bulkhead (Factory New)",
+    "Volume": 347,
+    "LowestPrice": 0.26,
+    "AveragePrice": 0.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 430,
+    "Name": "Negev | Bulkhead (Battle-Scarred)",
+    "Volume": 44,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 431,
+    "Name": "MP7 | Motherboard (Well-Worn)",
+    "Volume": 60,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 432,
+    "Name": "MP7 | Motherboard (Minimal Wear)",
+    "Volume": 553,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.16,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 433,
+    "Name": "MP7 | Motherboard (Field-Tested)",
+    "Volume": 658,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.11,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 434,
+    "Name": "MP7 | Motherboard (Factory New)",
+    "Volume": 389,
+    "LowestPrice": 0.2,
+    "AveragePrice": 0.21,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 435,
+    "Name": "MP7 | Motherboard (Battle-Scarred)",
+    "Volume": 59,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 436,
+    "Name": "MP5-SD | Co-Processor (Well-Worn)",
+    "Volume": 23,
+    "LowestPrice": 0.31,
+    "AveragePrice": 0.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 437,
+    "Name": "MP5-SD | Co-Processor (Minimal Wear)",
+    "Volume": 166,
+    "LowestPrice": 0.47,
+    "AveragePrice": 0.44,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 438,
+    "Name": "MP5-SD | Co-Processor (Field-Tested)",
+    "Volume": 197,
+    "LowestPrice": 0.32,
+    "AveragePrice": 0.3,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 439,
+    "Name": "MP5-SD | Co-Processor (Factory New)",
+    "Volume": 118,
+    "LowestPrice": 0.74,
+    "AveragePrice": 0.74,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 440,
+    "Name": "MP5-SD | Co-Processor (Battle-Scarred)",
+    "Volume": 13,
+    "LowestPrice": 0.28,
+    "AveragePrice": 0.25,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 441,
+    "Name": "MAG-7 | Core Breach (Well-Worn)",
+    "Volume": 10,
+    "LowestPrice": 0.48,
+    "AveragePrice": 0.47,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 442,
+    "Name": "MAG-7 | Core Breach (Minimal Wear)",
+    "Volume": 25,
+    "LowestPrice": 1.24,
+    "AveragePrice": 1.18,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 443,
+    "Name": "MAG-7 | Core Breach (Field-Tested)",
+    "Volume": 83,
+    "LowestPrice": 0.53,
+    "AveragePrice": 0.54,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 444,
+    "Name": "MAG-7 | Core Breach (Factory New)",
+    "Volume": 14,
+    "LowestPrice": 5.55,
+    "AveragePrice": 4.28,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 445,
+    "Name": "MAG-7 | Core Breach (Battle-Scarred)",
+    "Volume": 16,
+    "LowestPrice": 0.77,
+    "AveragePrice": 0.54,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 446,
+    "Name": "M4A4 | Mainframe (Well-Worn)",
+    "Volume": 109,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 447,
+    "Name": "M4A4 | Mainframe (Minimal Wear)",
+    "Volume": 790,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.15,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 448,
+    "Name": "M4A4 | Mainframe (Field-Tested)",
+    "Volume": 966,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 449,
+    "Name": "M4A4 | Mainframe (Factory New)",
+    "Volume": 763,
+    "LowestPrice": 0.24,
+    "AveragePrice": 0.24,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 450,
+    "Name": "M4A4 | Mainframe (Battle-Scarred)",
+    "Volume": 75,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.11,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 451,
+    "Name": "M4A1-S | Control Panel (Well-Worn)",
+    "Volume": 26,
+    "LowestPrice": 6.18,
+    "AveragePrice": 5.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 452,
+    "Name": "M4A1-S | Control Panel (Minimal Wear)",
+    "Volume": 28,
+    "LowestPrice": 12.9,
+    "AveragePrice": 11.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 453,
+    "Name": "M4A1-S | Control Panel (Field-Tested)",
+    "Volume": 38,
+    "LowestPrice": 7.26,
+    "AveragePrice": 7.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 454,
+    "Name": "M4A1-S | Control Panel (Factory New)",
+    "Volume": 8,
+    "LowestPrice": 25.54,
+    "AveragePrice": 25.54,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 455,
+    "Name": "M4A1-S | Control Panel (Battle-Scarred)",
+    "Volume": 19,
+    "LowestPrice": 6.51,
+    "AveragePrice": 6.01,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 456,
+    "Name": "Glock-18 | Nuclear Garden (Well-Worn)",
+    "Volume": 9,
+    "LowestPrice": 6.07,
+    "AveragePrice": 5.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 457,
+    "Name": "Glock-18 | Nuclear Garden (Minimal Wear)",
+    "Volume": 54,
+    "LowestPrice": 7.47,
+    "AveragePrice": 9.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 458,
+    "Name": "Glock-18 | Nuclear Garden (Field-Tested)",
+    "Volume": 101,
+    "LowestPrice": 4.8,
+    "AveragePrice": 5.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 459,
+    "Name": "Glock-18 | Nuclear Garden (Factory New)",
+    "Volume": 29,
+    "LowestPrice": 13.0,
+    "AveragePrice": 13.0,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 460,
+    "Name": "Glock-18 | Nuclear Garden (Battle-Scarred)",
+    "Volume": 29,
+    "LowestPrice": 3.6,
+    "AveragePrice": 3.61,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 461,
+    "Name": "Galil AR | Cold Fusion (Well-Worn)",
+    "Volume": 72,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.15,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 462,
+    "Name": "Galil AR | Cold Fusion (Minimal Wear)",
+    "Volume": 666,
+    "LowestPrice": 0.2,
+    "AveragePrice": 0.2,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 463,
+    "Name": "Galil AR | Cold Fusion (Field-Tested)",
+    "Volume": 1248,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 464,
+    "Name": "Galil AR | Cold Fusion (Factory New)",
+    "Volume": 149,
+    "LowestPrice": 0.55,
+    "AveragePrice": 0.54,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 465,
+    "Name": "Galil AR | Cold Fusion (Battle-Scarred)",
+    "Volume": 247,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 466,
+    "Name": "Five-SeveN | Coolant (Well-Worn)",
+    "Volume": 222,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 467,
+    "Name": "Five-SeveN | Coolant (Minimal Wear)",
+    "Volume": 1230,
+    "LowestPrice": 0.03,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 468,
+    "Name": "Five-SeveN | Coolant (Field-Tested)",
+    "Volume": 2936,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 469,
+    "Name": "Five-SeveN | Coolant (Factory New)",
+    "Volume": 1351,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 470,
+    "Name": "Five-SeveN | Coolant (Battle-Scarred)",
+    "Volume": 126,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 471,
+    "Name": "AWP | Acheron (Well-Worn)",
+    "Volume": 32,
+    "LowestPrice": 3.17,
+    "AveragePrice": 3.18,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 472,
+    "Name": "AWP | Acheron (Minimal Wear)",
+    "Volume": 256,
+    "LowestPrice": 3.25,
+    "AveragePrice": 3.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 473,
+    "Name": "AWP | Acheron (Field-Tested)",
+    "Volume": 524,
+    "LowestPrice": 1.89,
+    "AveragePrice": 1.76,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 474,
+    "Name": "AWP | Acheron (Factory New)",
+    "Volume": 80,
+    "LowestPrice": 6.21,
+    "AveragePrice": 6.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 475,
+    "Name": "AWP | Acheron (Battle-Scarred)",
+    "Volume": 94,
+    "LowestPrice": 1.8,
+    "AveragePrice": 1.68,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 476,
+    "Name": "AUG | Random Access (Well-Worn)",
+    "Volume": 6,
+    "LowestPrice": 0.6,
+    "AveragePrice": 0.55,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 477,
+    "Name": "AUG | Random Access (Minimal Wear)",
+    "Volume": 53,
+    "LowestPrice": 1.2,
+    "AveragePrice": 1.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 478,
+    "Name": "AUG | Random Access (Field-Tested)",
+    "Volume": 86,
+    "LowestPrice": 0.57,
+    "AveragePrice": 0.58,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 479,
+    "Name": "AUG | Random Access (Factory New)",
+    "Volume": 58,
+    "LowestPrice": 2.78,
+    "AveragePrice": 2.78,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 480,
+    "Name": "AUG | Random Access (Battle-Scarred)",
+    "Volume": 1,
+    "LowestPrice": 0.48,
+    "AveragePrice": 0.56,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 481,
+    "Name": "USP-S | Forest Leaves (Well-Worn)",
+    "Volume": 488,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 482,
+    "Name": "USP-S | Forest Leaves (Minimal Wear)",
+    "Volume": 1115,
+    "LowestPrice": 0.0,
+    "AveragePrice": 0.28,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 483,
+    "Name": "USP-S | Forest Leaves (Field-Tested)",
+    "Volume": 3306,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 484,
+    "Name": "USP-S | Forest Leaves (Factory New)",
+    "Volume": 26,
+    "LowestPrice": 1.09,
+    "AveragePrice": 1.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 485,
+    "Name": "USP-S | Forest Leaves (Battle-Scarred)",
+    "Volume": 752,
+    "LowestPrice": 0.17,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 486,
+    "Name": "Tec-9 | Army Mesh (Well-Worn)",
+    "Volume": 191,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 487,
+    "Name": "Tec-9 | Army Mesh (Minimal Wear)",
+    "Volume": 1730,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 488,
+    "Name": "Tec-9 | Army Mesh (Field-Tested)",
+    "Volume": 2264,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 489,
+    "Name": "Tec-9 | Army Mesh (Factory New)",
+    "Volume": 1061,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 490,
+    "Name": "Tec-9 | Army Mesh (Battle-Scarred)",
+    "Volume": 341,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 491,
+    "Name": "SSG 08 | Blue Spruce (Well-Worn)",
+    "Volume": 590,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 492,
+    "Name": "SSG 08 | Blue Spruce (Minimal Wear)",
+    "Volume": 1524,
+    "LowestPrice": 0.05,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 493,
+    "Name": "SSG 08 | Blue Spruce (Field-Tested)",
+    "Volume": 3466,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 494,
+    "Name": "SSG 08 | Blue Spruce (Factory New)",
+    "Volume": 91,
+    "LowestPrice": 0.32,
+    "AveragePrice": 0.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 495,
+    "Name": "SSG 08 | Blue Spruce (Battle-Scarred)",
+    "Volume": 929,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 496,
+    "Name": "SSG 08 | Acid Fade (Factory New)",
+    "Volume": 993,
+    "LowestPrice": 1.17,
+    "AveragePrice": 1.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 497,
+    "Name": "SCAR-20 | Contractor (Well-Worn)",
+    "Volume": 494,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 498,
+    "Name": "SCAR-20 | Contractor (Minimal Wear)",
+    "Volume": 1077,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 499,
+    "Name": "SCAR-20 | Contractor (Field-Tested)",
+    "Volume": 2872,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 500,
+    "Name": "SCAR-20 | Contractor (Factory New)",
+    "Volume": 59,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 501,
+    "Name": "SCAR-20 | Contractor (Battle-Scarred)",
+    "Volume": 769,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 502,
+    "Name": "MP9 | Orange Peel (Well-Worn)",
+    "Volume": 175,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 503,
+    "Name": "MP9 | Orange Peel (Minimal Wear)",
+    "Volume": 301,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 504,
+    "Name": "MP9 | Orange Peel (Field-Tested)",
+    "Volume": 1706,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 505,
+    "Name": "MP9 | Orange Peel (Factory New)",
+    "Volume": 26,
+    "LowestPrice": 0.32,
+    "AveragePrice": 0.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 506,
+    "Name": "MP9 | Orange Peel (Battle-Scarred)",
+    "Volume": 281,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 507,
+    "Name": "MP7 | Army Recon (Well-Worn)",
+    "Volume": 522,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 508,
+    "Name": "MP7 | Army Recon (Minimal Wear)",
+    "Volume": 1199,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 509,
+    "Name": "MP7 | Army Recon (Field-Tested)",
+    "Volume": 3011,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 510,
+    "Name": "MP7 | Army Recon (Factory New)",
+    "Volume": 61,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.08,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 511,
+    "Name": "MP7 | Army Recon (Battle-Scarred)",
+    "Volume": 886,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 512,
+    "Name": "M4A1-S | Nitro (Well-Worn)",
+    "Volume": 205,
+    "LowestPrice": 0.92,
+    "AveragePrice": 0.87,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 513,
+    "Name": "M4A1-S | Nitro (Minimal Wear)",
+    "Volume": 638,
+    "LowestPrice": 1.29,
+    "AveragePrice": 1.27,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 514,
+    "Name": "M4A1-S | Nitro (Field-Tested)",
+    "Volume": 1413,
+    "LowestPrice": 0.69,
+    "AveragePrice": 0.67,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 515,
+    "Name": "M4A1-S | Nitro (Factory New)",
+    "Volume": 122,
+    "LowestPrice": 3.3,
+    "AveragePrice": 3.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 516,
+    "Name": "M4A1-S | Nitro (Battle-Scarred)",
+    "Volume": 257,
+    "LowestPrice": 0.69,
+    "AveragePrice": 0.68,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 517,
+    "Name": "M249 | Gator Mesh (Well-Worn)",
+    "Volume": 70,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 518,
+    "Name": "M249 | Gator Mesh (Minimal Wear)",
+    "Volume": 636,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 519,
+    "Name": "M249 | Gator Mesh (Field-Tested)",
+    "Volume": 1138,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 520,
+    "Name": "M249 | Gator Mesh (Factory New)",
+    "Volume": 259,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 521,
+    "Name": "M249 | Gator Mesh (Battle-Scarred)",
+    "Volume": 112,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 522,
+    "Name": "Galil AR | VariCamo (Well-Worn)",
+    "Volume": 65,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 523,
+    "Name": "Galil AR | VariCamo (Minimal Wear)",
+    "Volume": 631,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 524,
+    "Name": "Galil AR | VariCamo (Field-Tested)",
+    "Volume": 1184,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 525,
+    "Name": "Galil AR | VariCamo (Factory New)",
+    "Volume": 393,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 526,
+    "Name": "Galil AR | VariCamo (Battle-Scarred)",
+    "Volume": 125,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 527,
+    "Name": "G3SG1 | VariCamo (Well-Worn)",
+    "Volume": 66,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 528,
+    "Name": "G3SG1 | VariCamo (Minimal Wear)",
+    "Volume": 478,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 529,
+    "Name": "G3SG1 | VariCamo (Field-Tested)",
+    "Volume": 1068,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 530,
+    "Name": "G3SG1 | VariCamo (Factory New)",
+    "Volume": 249,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 531,
+    "Name": "G3SG1 | VariCamo (Battle-Scarred)",
+    "Volume": 121,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 532,
+    "Name": "Five-SeveN | Silver Quartz (Well-Worn)",
+    "Volume": 9,
+    "LowestPrice": 0.34,
+    "AveragePrice": 0.32,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 533,
+    "Name": "Five-SeveN | Silver Quartz (Minimal Wear)",
+    "Volume": 300,
+    "LowestPrice": 0.58,
+    "AveragePrice": 0.57,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 534,
+    "Name": "Five-SeveN | Silver Quartz (Field-Tested)",
+    "Volume": 375,
+    "LowestPrice": 0.31,
+    "AveragePrice": 0.32,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 535,
+    "Name": "Five-SeveN | Silver Quartz (Factory New)",
+    "Volume": 235,
+    "LowestPrice": 0.94,
+    "AveragePrice": 0.84,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 536,
+    "Name": "FAMAS | Teardown (Well-Worn)",
+    "Volume": 34,
+    "LowestPrice": 0.32,
+    "AveragePrice": 0.33,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 537,
+    "Name": "FAMAS | Teardown (Minimal Wear)",
+    "Volume": 369,
+    "LowestPrice": 0.59,
+    "AveragePrice": 0.59,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 538,
+    "Name": "FAMAS | Teardown (Field-Tested)",
+    "Volume": 543,
+    "LowestPrice": 0.34,
+    "AveragePrice": 0.32,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 539,
+    "Name": "FAMAS | Teardown (Factory New)",
+    "Volume": 255,
+    "LowestPrice": 0.96,
+    "AveragePrice": 0.86,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 540,
+    "Name": "FAMAS | Teardown (Battle-Scarred)",
+    "Volume": 51,
+    "LowestPrice": 0.24,
+    "AveragePrice": 0.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 541,
+    "Name": "Dual Berettas | Contractor (Well-Worn)",
+    "Volume": 481,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 542,
+    "Name": "Dual Berettas | Contractor (Minimal Wear)",
+    "Volume": 1185,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 543,
+    "Name": "Dual Berettas | Contractor (Field-Tested)",
+    "Volume": 3051,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 544,
+    "Name": "Dual Berettas | Contractor (Factory New)",
+    "Volume": 55,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 545,
+    "Name": "Dual Berettas | Contractor (Battle-Scarred)",
+    "Volume": 773,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 546,
+    "Name": "AUG | Condemned (Well-Worn)",
+    "Volume": 198,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 547,
+    "Name": "AUG | Condemned (Minimal Wear)",
+    "Volume": 492,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 548,
+    "Name": "AUG | Condemned (Field-Tested)",
+    "Volume": 1678,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 549,
+    "Name": "AUG | Condemned (Factory New)",
+    "Volume": 20,
+    "LowestPrice": 0.54,
+    "AveragePrice": 0.51,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 550,
+    "Name": "AUG | Condemned (Battle-Scarred)",
+    "Volume": 240,
+    "LowestPrice": 0.07,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 551,
+    "Name": "UMP-45 | Urban DDPAT (Well-Worn)",
+    "Volume": 470,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 552,
+    "Name": "UMP-45 | Urban DDPAT (Minimal Wear)",
+    "Volume": 1042,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 553,
+    "Name": "UMP-45 | Urban DDPAT (Field-Tested)",
+    "Volume": 3043,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 554,
+    "Name": "UMP-45 | Urban DDPAT (Factory New)",
+    "Volume": 51,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.13,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 555,
+    "Name": "UMP-45 | Urban DDPAT (Battle-Scarred)",
+    "Volume": 725,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 556,
+    "Name": "Tec-9 | Red Quartz (Well-Worn)",
+    "Volume": 35,
+    "LowestPrice": 0.27,
+    "AveragePrice": 0.29,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 557,
+    "Name": "Tec-9 | Red Quartz (Minimal Wear)",
+    "Volume": 1032,
+    "LowestPrice": 0.18,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 558,
+    "Name": "Tec-9 | Red Quartz (Field-Tested)",
+    "Volume": 1003,
+    "LowestPrice": 0.18,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 559,
+    "Name": "Tec-9 | Red Quartz (Factory New)",
+    "Volume": 821,
+    "LowestPrice": 0.18,
+    "AveragePrice": 0.18,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 560,
+    "Name": "SCAR-20 | Carbon Fiber (Minimal Wear)",
+    "Volume": 172,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 561,
+    "Name": "SCAR-20 | Carbon Fiber (Factory New)",
+    "Volume": 2250,
+    "LowestPrice": 0.17,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 562,
+    "Name": "Sawed-Off | Amber Fade (Well-Worn)",
+    "Volume": 15,
+    "LowestPrice": 0.31,
+    "AveragePrice": 0.26,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 563,
+    "Name": "Sawed-Off | Amber Fade (Minimal Wear)",
+    "Volume": 281,
+    "LowestPrice": 0.55,
+    "AveragePrice": 0.55,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 564,
+    "Name": "Sawed-Off | Amber Fade (Field-Tested)",
+    "Volume": 404,
+    "LowestPrice": 0.3,
+    "AveragePrice": 0.29,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 565,
+    "Name": "Sawed-Off | Amber Fade (Factory New)",
+    "Volume": 400,
+    "LowestPrice": 0.87,
+    "AveragePrice": 0.78,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 566,
+    "Name": "PP-Bizon | Urban Dashed (Well-Worn)",
+    "Volume": 437,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 567,
+    "Name": "PP-Bizon | Urban Dashed (Minimal Wear)",
+    "Volume": 821,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 568,
+    "Name": "PP-Bizon | Urban Dashed (Field-Tested)",
+    "Volume": 2712,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 569,
+    "Name": "PP-Bizon | Urban Dashed (Factory New)",
+    "Volume": 19,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 570,
+    "Name": "PP-Bizon | Urban Dashed (Battle-Scarred)",
+    "Volume": 631,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 571,
+    "Name": "P90 | Ash Wood (Well-Worn)",
+    "Volume": 85,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 572,
+    "Name": "P90 | Ash Wood (Minimal Wear)",
+    "Volume": 938,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 573,
+    "Name": "P90 | Ash Wood (Field-Tested)",
+    "Volume": 977,
+    "LowestPrice": 0.12,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 574,
+    "Name": "P90 | Ash Wood (Factory New)",
+    "Volume": 598,
+    "LowestPrice": 0.17,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 575,
+    "Name": "P250 | Metallic DDPAT (Minimal Wear)",
+    "Volume": 120,
+    "LowestPrice": 0.16,
+    "AveragePrice": 0.16,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 576,
+    "Name": "P250 | Metallic DDPAT (Factory New)",
+    "Volume": 2427,
+    "LowestPrice": 0.17,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 577,
+    "Name": "Nova | Polar Mesh (Well-Worn)",
+    "Volume": 379,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 578,
+    "Name": "Nova | Polar Mesh (Minimal Wear)",
+    "Volume": 939,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 579,
+    "Name": "Nova | Polar Mesh (Field-Tested)",
+    "Volume": 2583,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 580,
+    "Name": "Nova | Polar Mesh (Factory New)",
+    "Volume": 47,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 581,
+    "Name": "Nova | Polar Mesh (Battle-Scarred)",
+    "Volume": 648,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 582,
+    "Name": "MAG-7 | Metallic DDPAT (Minimal Wear)",
+    "Volume": 89,
+    "LowestPrice": 0.17,
+    "AveragePrice": 0.18,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 583,
+    "Name": "MAG-7 | Metallic DDPAT (Factory New)",
+    "Volume": 2311,
+    "LowestPrice": 0.17,
+    "AveragePrice": 0.17,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 584,
+    "Name": "MAC-10 | Candy Apple (Minimal Wear)",
+    "Volume": 1782,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.15,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 585,
+    "Name": "MAC-10 | Candy Apple (Field-Tested)",
+    "Volume": 426,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 586,
+    "Name": "MAC-10 | Candy Apple (Factory New)",
+    "Volume": 1085,
+    "LowestPrice": 0.18,
+    "AveragePrice": 0.18,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 587,
+    "Name": "M4A4 | Urban DDPAT (Well-Worn)",
+    "Volume": 526,
+    "LowestPrice": 0.15,
+    "AveragePrice": 0.14,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 588,
+    "Name": "M4A4 | Urban DDPAT (Minimal Wear)",
+    "Volume": 759,
+    "LowestPrice": 0.6,
+    "AveragePrice": 0.63,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 589,
+    "Name": "M4A4 | Urban DDPAT (Field-Tested)",
+    "Volume": 2531,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 590,
+    "Name": "M4A4 | Urban DDPAT (Factory New)",
+    "Volume": 28,
+    "LowestPrice": 4.52,
+    "AveragePrice": 4.33,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 591,
+    "Name": "M4A4 | Urban DDPAT (Battle-Scarred)",
+    "Volume": 457,
+    "LowestPrice": 0.11,
+    "AveragePrice": 0.1,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 592,
+    "Name": "G3SG1 | Polar Camo (Well-Worn)",
+    "Volume": 433,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 593,
+    "Name": "G3SG1 | Polar Camo (Minimal Wear)",
+    "Volume": 962,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 594,
+    "Name": "G3SG1 | Polar Camo (Field-Tested)",
+    "Volume": 3217,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 595,
+    "Name": "G3SG1 | Polar Camo (Factory New)",
+    "Volume": 36,
+    "LowestPrice": 0.21,
+    "AveragePrice": 0.21,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 596,
+    "Name": "G3SG1 | Polar Camo (Battle-Scarred)",
+    "Volume": 626,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 597,
+    "Name": "Five-SeveN | Forest Night (Well-Worn)",
+    "Volume": 460,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 598,
+    "Name": "Five-SeveN | Forest Night (Minimal Wear)",
+    "Volume": 1177,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.03,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 599,
+    "Name": "Five-SeveN | Forest Night (Field-Tested)",
+    "Volume": 3087,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 600,
+    "Name": "Five-SeveN | Forest Night (Factory New)",
+    "Volume": 62,
+    "LowestPrice": 0.14,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 601,
+    "Name": "Five-SeveN | Forest Night (Battle-Scarred)",
+    "Volume": 700,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 602,
+    "Name": "Dual Berettas | Colony (Well-Worn)",
+    "Volume": 507,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 603,
+    "Name": "Dual Berettas | Colony (Minimal Wear)",
+    "Volume": 843,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 604,
+    "Name": "Dual Berettas | Colony (Field-Tested)",
+    "Volume": 3272,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 605,
+    "Name": "Dual Berettas | Colony (Factory New)",
+    "Volume": 58,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 606,
+    "Name": "Dual Berettas | Colony (Battle-Scarred)",
+    "Volume": 674,
+    "LowestPrice": 0.04,
+    "AveragePrice": 0.02,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 607,
+    "Name": "Desert Eagle | Urban Rubble (Well-Worn)",
+    "Volume": 76,
+    "LowestPrice": 0.0,
+    "AveragePrice": 0.33,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 608,
+    "Name": "Desert Eagle | Urban Rubble (Minimal Wear)",
+    "Volume": 429,
+    "LowestPrice": 0.55,
+    "AveragePrice": 0.56,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 609,
+    "Name": "Desert Eagle | Urban Rubble (Field-Tested)",
+    "Volume": 738,
+    "LowestPrice": 0.3,
+    "AveragePrice": 0.31,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 610,
+    "Name": "Desert Eagle | Urban Rubble (Factory New)",
+    "Volume": 442,
+    "LowestPrice": 0.84,
+    "AveragePrice": 0.8,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 611,
+    "Name": "Desert Eagle | Urban Rubble (Battle-Scarred)",
+    "Volume": 43,
+    "LowestPrice": 0.4,
+    "AveragePrice": 0.37,
+    "SellPrice": 0.0,
+    "Droppable": true
+  },
+  {
+    "Id": 612,
+    "Name": "Souvenir MP5-SD | Lab Rats (Minimal Wear)",
+    "Volume": 1185,
+    "LowestPrice": 0.19,
+    "AveragePrice": 0.19,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 613,
+    "Name": "Glock-18 | Oxide Blaze (Field-Tested)",
+    "Volume": 1243,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 614,
+    "Name": "AK-47 | Uncharted (Battle-Scarred)",
+    "Volume": 549,
+    "LowestPrice": 0.54,
+    "AveragePrice": 0.56,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 615,
+    "Name": "Souvenir MP5-SD | Lab Rats (Field-Tested)",
+    "Volume": 927,
+    "LowestPrice": 0.19,
+    "AveragePrice": 0.19,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 616,
+    "Name": "AK-47 | Uncharted (Field-Tested)",
+    "Volume": 2722,
+    "LowestPrice": 0.53,
+    "AveragePrice": 0.56,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 617,
+    "Name": "Souvenir MAC-10 | Urban DDPAT (Field-Tested)",
+    "Volume": 197,
+    "LowestPrice": 0.1,
+    "AveragePrice": 0.09,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 618,
+    "Name": "Souvenir XM1014 | Urban Perforated (Field-Tested)",
+    "Volume": 166,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 619,
+    "Name": "Souvenir UMP-45 | Scorched (Battle-Scarred)",
+    "Volume": 27,
+    "LowestPrice": 0.09,
+    "AveragePrice": 0.06,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 620,
+    "Name": "Souvenir UMP-45 | Scorched (Field-Tested)",
+    "Volume": 166,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 621,
+    "Name": "Souvenir UMP-45 | Mudder (Field-Tested)",
+    "Volume": 178,
+    "LowestPrice": 0.08,
+    "AveragePrice": 0.07,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 622,
+    "Name": "Desert Eagle | Oxide Blaze (Field-Tested)",
+    "Volume": 1620,
+    "LowestPrice": 0.38,
+    "AveragePrice": 0.36,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 624,
+    "Name": "MP7 | Cirrus (Field-Tested)",
+    "Volume": 809,
+    "LowestPrice": 0.13,
+    "AveragePrice": 0.12,
+    "SellPrice": 0.0,
+    "Droppable": false
+  },
+  {
+    "Id": 625,
+    "Name": "Prisma 2 Case",
+    "Volume": 10000,
+    "LowestPrice": 7.0,
+    "AveragePrice": 7.0,
+    "SellPrice": 7.0,
+    "Droppable": true
+  }
+]

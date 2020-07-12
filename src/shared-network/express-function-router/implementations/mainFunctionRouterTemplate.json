@@ -1,0 +1,67 @@
+{
+  "chats": {
+    "removeFriend": 2,
+    "getAllActiveChats": 0,
+    "rescanFriend": 2,
+    "messages": {
+      "sendMessage": 1,
+      "sendTradeOffer": 1,
+      "getAllMessages": 0,
+      "getSpecificMessages": 0
+    }
+  },
+  "clients": {
+    "startAllAllowedToRunSteamChilds": 2,
+    "restartClient": 2,
+    "startClient": 2,
+    "stopClient": 2,
+    "updateClient": 2,
+    "addClient": 1,
+    "getAllClients": 0,
+    "updateCredentials": 2,
+    "inventories": {
+      "getClientInventory": 0,
+      "getAllClientsInventories": 0
+    }
+  },
+  "mining": {
+    "getMiningStatus": 0,
+    "updateMiningStatus": 2,
+    "profiles": {
+      "getProfilesToMine": 0,
+      "sendMinedProfiles": 0,
+      "scanGroup": 1
+    },
+    "items": {
+      "getItemsToMine": 0,
+      "sendMinedItems": 1,
+      "addItem": 1
+    }
+  },
+  "items": {
+    "getItemsSellInformation": 0,
+    "offers": {
+      "getTradeOfferDetailsFromTradeLink": 0,
+      "sendOfferFromTradeLink": 1,
+      "getOffersById": 0,
+      "getOfferById": 0,
+      "getOffersWithQuery": 0,
+      "getOffersSummary": 0
+    }
+  },
+  "market": {
+    "updateMarketSellOrders": 2,
+    "updateMarketStatus": 2,
+    "getMarketStatus": 0,
+    "getMarketSellOrders": 0,
+    "getAllMarketListings": 0,
+    "sellItemsOnMarketByPrice": 1,
+    "removeItemsFromMarket": 2,
+    "getAllMarketOrdersHistogramFromSellOrders": 0
+  },
+  "auth": {
+    "management": {
+      "getWorkerNames": 0
+    }
+  }
+}
